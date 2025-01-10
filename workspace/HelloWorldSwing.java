@@ -1,6 +1,6 @@
 import javax.swing.*;        
 
-public class HelloWorldSwing {
+public class HelloWorldSwing { 
     /**
      * Create the GUI and show it.  For thread safety,
      * this method should be invoked from the
