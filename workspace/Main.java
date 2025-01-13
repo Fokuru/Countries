@@ -1,3 +1,9 @@
+//
+//  Class editor:  Raley
+//  Date created:  1/6/2025
+//  General description: Allows the user to play a memory game about countries.
+//
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
